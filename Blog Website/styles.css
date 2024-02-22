@@ -1,0 +1,54 @@
+.container{
+    background-size: cover;
+    margin-top: 5vw;
+    border-radius: 12px;
+    width: 60vw;
+    padding: auto;
+}
+
+.titel{
+    font-weight: bold;
+    font-size: 30px;
+    font-family: Roboto;
+}
+
+.bysection{
+    letter-spacing: 3px;
+    padding: 5px;
+    font-size: 10px;
+    font-family: inherit;
+    margin: 3px;
+    border-right: 1px solid #ddd;
+}
+
+.shareicon{
+font-size: 30px;
+padding: 15px;
+letter-spacing: 10px;
+}
+
+.blogphoto{
+    height: 25vw;
+    margin: 5px;
+}
+
+.points{
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.recent{
+    margin-top: 5vw;
+    font-family: Roboto;
+    font-size: 40px;
+
+}
+
+.RecentPosts{
+    height: 140px;
+}
+
+.btm{
+    font-size: 20px;
+    font-weight: bold;
+}
